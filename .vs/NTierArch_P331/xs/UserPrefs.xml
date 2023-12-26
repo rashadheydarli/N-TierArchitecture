@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{25E09233-D80B-4D4C-A2EC-FE09DE67B072}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/Views/Category/List.cshtml">
+    <Files>
+      <File FileName="Presentation/Controllers/CategoryController.cs" Line="43" Column="19" />
+      <File FileName="Business/Services/Abstract/ICategoryService.cs" Line="7" Column="31" />
+      <File FileName="Business/ViewModels/Category/CategoryListItemVM.cs" Line="6" Column="16" />
+      <File FileName="Business/Services/Concrete/CategoryService.cs" Line="74" Column="1" />
+      <File FileName="Presentation/Views/Category/List.cshtml" Line="11" Column="12" />
+      <File FileName="DataAccess/Repository/Abstract/ICategoryRepository.cs" Line="1" Column="1" />
+      <File FileName="DataAccess/Repository/Base/IRepository.cs" Line="1" Column="1" />
+      <File FileName="DataAccess/Repository/Base/Repository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NTierArch_P331" expanded="True">
+            <Node name="DataAccess">
+              <Node name="Repository" expanded="True">
+                <Node name="Abstract" expanded="True" />
+                <Node name="Base" expanded="True" />
+                <Node name="Concrete" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Presentation">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views">
+                <Node name="Category">
+                  <Node name="List.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Presentation PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
